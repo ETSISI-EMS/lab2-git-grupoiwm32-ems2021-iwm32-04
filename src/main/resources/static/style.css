@@ -16,8 +16,7 @@ html,body {
     overflow: auto;
     padding-bottom: 60px;
     padding-top:30px;
-    color: white
-
+    color:pink;
     }
     footer {
     position: relative;
@@ -25,6 +24,6 @@ html,body {
     height: 40px;
     padding:5px 0px;
     clear: both;
-    background: #d7e0e9;
+    background: blue;
     text-align: center;
     }
